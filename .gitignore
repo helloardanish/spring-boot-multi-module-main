@@ -1,0 +1,161 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+
+# For new subprojects
+
+# Replace all lines with folder : ^(?!#)(.+) to subproject-name/$1
+
+
+
+main-app/HELP.md
+main-app/target/
+main-app/!.mvn/wrapper/maven-wrapper.jar
+main-app/!**/src/main/**/target/
+main-app/!**/src/test/**/target/
+
+### STS ###
+main-app/.apt_generated
+main-app/.classpath
+main-app/.factorypath
+main-app/.project
+main-app/.settings
+main-app/.springBeans
+main-app/.sts4-cache
+
+### IntelliJ IDEA ###
+main-app/.idea
+main-app/*.iws
+main-app/*.iml
+main-app/*.ipr
+
+### NetBeans ###
+main-app/nbproject/private/
+main-app/nbbuild/
+main-app/dist/
+main-app/nbdist/
+main-app/.nb-gradle/
+main-app/build/
+main-app/!**/src/main/**/build/
+main-app/!**/src/test/**/build/
+
+### VS Code ###
+main-app/.vscode/
+
+
+
+
+
+#
+
+
+
+model/HELP.md
+model/target/
+model/!.mvn/wrapper/maven-wrapper.jar
+model/!**/src/main/**/target/
+model/!**/src/test/**/target/
+
+### STS ###
+model/.apt_generated
+model/.classpath
+model/.factorypath
+model/.project
+model/.settings
+model/.springBeans
+model/.sts4-cache
+
+### IntelliJ IDEA ###
+model/.idea
+model/*.iws
+model/*.iml
+model/*.ipr
+
+### NetBeans ###
+model/nbproject/private/
+model/nbbuild/
+model/dist/
+model/nbdist/
+model/.nb-gradle/
+model/build/
+model/!**/src/main/**/build/
+model/!**/src/test/**/build/
+
+### VS Code ###
+model/.vscode/
+
+
+
+
+#
+
+
+
+template/HELP.md
+template/target/
+template/!.mvn/wrapper/maven-wrapper.jar
+template/!**/src/main/**/target/
+template/!**/src/test/**/target/
+
+### STS ###
+template/.apt_generated
+template/.classpath
+template/.factorypath
+template/.project
+template/.settings
+template/.springBeans
+template/.sts4-cache
+
+### IntelliJ IDEA ###
+template/.idea
+template/*.iws
+template/*.iml
+template/*.ipr
+
+### NetBeans ###
+template/nbproject/private/
+template/nbbuild/
+template/dist/
+template/nbdist/
+template/.nb-gradle/
+template/build/
+template/!**/src/main/**/build/
+template/!**/src/test/**/build/
+
+### VS Code ###
+template/.vscode/
+
+**/mvnw
+**/mvnw.cmd
+**/.mvn
