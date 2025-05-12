@@ -156,6 +156,4 @@ template/!**/src/test/**/build/
 ### VS Code ###
 template/.vscode/
 
-**/mvnw
-**/mvnw.cmd
 **/.mvn
