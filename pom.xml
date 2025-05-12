@@ -13,6 +13,13 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-multi-module-main</name>
 	<description>Testing project main for A-R</description>
+
+	<modules>
+		<module>main-app</module>
+		<module>model</module>
+		<module>template</module>
+	</modules>
+	<packaging>pom</packaging>
 	<url/>
 	<licenses>
 		<license/>
